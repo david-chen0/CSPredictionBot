@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "hltv": "github:david-chen0/HLTV",
+    "typescript": "^5.8.3"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.29"
+  }
+}
